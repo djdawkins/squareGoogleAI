@@ -1,0 +1,2 @@
+id,name,address_locality,address_postal_code,address_country,status,created_at,merchant_id,loc_type
+LV2XZS82XY1QP,Default Test Account,Washington,20500,US,ACTIVE,2023-08-27T12:46:15.767Z,ML8A45BNKWMJG,PHYSICAL
